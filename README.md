@@ -46,7 +46,7 @@ Mediator 設計模式用於將一個對象的交互行為封裝到一個中介�
 ---
 
 ## 實作範例:
-- [待補...]() 
+- [Example](https://github.com/RC-Dev-Tech/design-pattern-mediator/blob/main/C%2B%2B/main.cpp) - Mediator Pattern (C++) 
 
 ---
 
